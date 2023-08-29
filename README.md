@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [manhattan-project_HDP](https://github.com/sairamadugu/manhattan-project_HDP.git)
 
+- 🌱 I’m currently learning **130nm Skywater Pdk based projects**
+
 - 📫 How to reach me **ramadugu@pdx.edu**
 
 <h3 align="left">Connect with me:</h3>
